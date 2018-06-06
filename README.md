@@ -12,5 +12,5 @@ Decir que salgo muy contento en general, con la empresa y con el tutor que nos h
 Con muchas ganas de volver y aprender más cada día.
 
 <p align="center">
-<img src="./dist/Presentacion/assets/img2/jose.jpg" width="400px" left="300px">
+<img src="./dist/Presentacion/assets/img2/jose.jpg" width="400px">
 </p>

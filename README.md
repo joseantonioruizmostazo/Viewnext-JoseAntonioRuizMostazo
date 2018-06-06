@@ -11,4 +11,6 @@ Dar las gracias al elenco de profesores que hace esto posible y a la empresa.
 Decir que salgo muy contento en general, con la empresa y con el tutor que nos ha tocado, pues ha sabido gestionar muy bien nuestro aprendizaje con el proyecto que nos ha asignado.
 Con muchas ganas de volver y aprender más cada día.
 
-<img align="center" src="./dist/Presentacion/assets/img2/jose.jpg" width="400px" left="300px">
+<p align="center">
+<img src="./dist/Presentacion/assets/img2/jose.jpg" width="400px" left="300px">
+</p>
